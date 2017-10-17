@@ -12,7 +12,7 @@ setup with 2 breadboards and a floating Arduino. The stepper motors are connecte
 
 ## newparts.fzz
 **NOT TESTED!**
-Setup with custom parts ([source](https://github.com/tardate/X113647Stepper)). These are our actual parts. The custom made parts are also included in this repo at  `assets/schematics/customparts`.
+Setup with custom parts ([source](https://github.com/tardate/X113647Stepper)). These are our actual parts. The custom made parts are also included in this repo at  `customparts/`.
 
 
 ## firstworking.fzz
