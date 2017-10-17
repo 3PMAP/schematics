@@ -7,7 +7,7 @@ breadboard, schematic and PCB. In this folder are all our versions of the schema
 **NOT TESTED!**
 setup with 2 breadboards and a floating Arduino. The stepper motors are connected to an easydriver which then are connected to an Arduino.
 
-![Firstsetup.fzz schematic](firstsetup_schem.jpg)
+![firstsetup.fzz schematic](images/firstsetup_schem.jpg)
 
 
 ## newparts.fzz
@@ -18,4 +18,4 @@ Setup with custom parts ([source](https://github.com/tardate/X113647Stepper)). T
 ## firstworking.fzz
 Only one motor, but this one is **tested** and works! It's tested with the code at [this commit](https://github.com/bionicarm/bionicarm/tree/d6df96433fdd7d1bf2449d47284609a06bb9cc7e).
 
-![firstworking.fzz schematic](firstworking_schem.jpg)
+![firstworking.fzz schematic](images/firstworking_schem.jpg)
